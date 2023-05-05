@@ -352,6 +352,15 @@ header .navbar ul li a:hover{
     height: 50px;
 }
 
+.box-container .box .vew:hover{
+    background-color: var(--tomato);
+}
+.box-container .box .vew-1:hover{
+    background-color: var(--tomato);
+}
+.box-container .box .vew-2:hover{
+    background-color: var(--tomato);
+}
 
 
 
